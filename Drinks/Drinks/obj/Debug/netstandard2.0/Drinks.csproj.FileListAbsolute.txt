@@ -1,0 +1,9 @@
+C:\Dev\Repos\Drinks\Drinks\obj\Debug\netstandard2.0\Drinks.csprojAssemblyReference.cache
+C:\Dev\Repos\Drinks\Drinks\obj\Debug\netstandard2.0\Drinks.AssemblyInfoInputs.cache
+C:\Dev\Repos\Drinks\Drinks\obj\Debug\netstandard2.0\Drinks.AssemblyInfo.cs
+C:\Dev\Repos\Drinks\Drinks\obj\Debug\netstandard2.0\Drinks.csproj.CoreCompileInputs.cache
+C:\Dev\Repos\Drinks\Drinks\bin\Debug\netstandard2.0\Drinks.deps.json
+C:\Dev\Repos\Drinks\Drinks\bin\Debug\netstandard2.0\Drinks.dll
+C:\Dev\Repos\Drinks\Drinks\bin\Debug\netstandard2.0\Drinks.pdb
+C:\Dev\Repos\Drinks\Drinks\obj\Debug\netstandard2.0\Drinks.dll
+C:\Dev\Repos\Drinks\Drinks\obj\Debug\netstandard2.0\Drinks.pdb

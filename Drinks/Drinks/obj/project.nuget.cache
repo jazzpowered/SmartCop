@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3YL6tIIsHuZMJjnXLyemSX4I5lOefjuX51K3BqNR+4FG38fgLSa/SsqwXo7xWEQqD6u3kK0jUNsWVSemizDLLA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Repos\\Drinks\\Drinks\\Drinks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miglesias\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\miglesias\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
